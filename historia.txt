@@ -2,12 +2,5 @@ Esta es la historia de Orazio Cappadonna
 
 Orazio Cappadonna tiene 21 años y nacio en Venezuela
 
-Hoy hablaremos de su historia
-
-Resulta q dicha historia es una kk porque vive en Venezuela
-
-Saquenme de aqui lpm aiudaaaaaaaAAAAAAAA
-
-Freddy en el video hablo de que es bajo, sere mas alto que el? xd
-
-Y pos weno esto es pa probar el commit sin mensaje osi
+Acabo de cambiar este archivo con checkout y agregandole esto, moviendome asi entre 
+versiones y proximamente guardarlo de nuevo alv
