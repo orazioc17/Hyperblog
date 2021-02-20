@@ -4,5 +4,7 @@ Orazio Cappadonna tiene 21 años y nacio en Venezuela
 
 Master 1
 
+Master 2
+
 Acabo de cambiar este archivo con checkout y agregandole esto, moviendome asi entre 
 versiones y proximamente guardarlo de nuevo alv
